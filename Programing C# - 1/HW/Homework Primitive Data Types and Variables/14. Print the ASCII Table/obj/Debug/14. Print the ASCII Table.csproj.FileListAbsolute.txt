@@ -1,0 +1,5 @@
+C:\Users\Mitko\Desktop\mitko telerik\Homework Primitive Data Types and Variables\14. Print the ASCII Table\bin\Debug\_14.Print_the_ASCII_Table.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\Homework Primitive Data Types and Variables\14. Print the ASCII Table\bin\Debug\_14.Print_the_ASCII_Table.exe
+C:\Users\Mitko\Desktop\mitko telerik\Homework Primitive Data Types and Variables\14. Print the ASCII Table\bin\Debug\_14.Print_the_ASCII_Table.pdb
+C:\Users\Mitko\Desktop\mitko telerik\Homework Primitive Data Types and Variables\14. Print the ASCII Table\obj\Debug\_14.Print_the_ASCII_Table.exe
+C:\Users\Mitko\Desktop\mitko telerik\Homework Primitive Data Types and Variables\14. Print the ASCII Table\obj\Debug\_14.Print_the_ASCII_Table.pdb

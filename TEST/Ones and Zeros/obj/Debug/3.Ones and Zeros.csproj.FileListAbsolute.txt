@@ -1,0 +1,3 @@
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Ones and Zeros\bin\Debug\Ones and Zeros.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Ones and Zeros\obj\Debug\Ones and Zeros.exe
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Ones and Zeros\obj\Debug\Ones and Zeros.pdb

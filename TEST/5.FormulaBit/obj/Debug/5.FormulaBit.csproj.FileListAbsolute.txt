@@ -1,0 +1,5 @@
+C:\Users\Mitko\Desktop\mitko telerik\TEST\5.FormulaBit\bin\Debug\5.FormulaBit.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\TEST\5.FormulaBit\bin\Debug\5.FormulaBit.exe
+C:\Users\Mitko\Desktop\mitko telerik\TEST\5.FormulaBit\bin\Debug\5.FormulaBit.pdb
+C:\Users\Mitko\Desktop\mitko telerik\TEST\5.FormulaBit\obj\Debug\5.FormulaBit.exe
+C:\Users\Mitko\Desktop\mitko telerik\TEST\5.FormulaBit\obj\Debug\5.FormulaBit.pdb

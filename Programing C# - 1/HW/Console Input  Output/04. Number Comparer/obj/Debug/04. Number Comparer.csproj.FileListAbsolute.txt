@@ -1,0 +1,6 @@
+C:\Users\Mitko\Desktop\mitko telerik\Console Input  Output\04. Number Comparer\bin\Debug\_04.Number_Comparer.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\Console Input  Output\04. Number Comparer\bin\Debug\_04.Number_Comparer.exe
+C:\Users\Mitko\Desktop\mitko telerik\Console Input  Output\04. Number Comparer\bin\Debug\_04.Number_Comparer.pdb
+C:\Users\Mitko\Desktop\mitko telerik\Console Input  Output\04. Number Comparer\obj\Debug\_04.Number_Comparer.exe
+C:\Users\Mitko\Desktop\mitko telerik\Console Input  Output\04. Number Comparer\obj\Debug\_04.Number_Comparer.pdb
+C:\Users\Mitko\Desktop\mitko telerik\Console Input  Output\04. Number Comparer\obj\Debug\04. Number Comparer.csprojResolveAssemblyReference.cache

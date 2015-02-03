@@ -1,0 +1,6 @@
+C:\Users\Mitko\Desktop\mitko telerik\Conditional Statements\09. Play with Int, Double and String\bin\Debug\_09.Play_with_Int__Double_and_String.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\Conditional Statements\09. Play with Int, Double and String\bin\Debug\_09.Play_with_Int__Double_and_String.exe
+C:\Users\Mitko\Desktop\mitko telerik\Conditional Statements\09. Play with Int, Double and String\bin\Debug\_09.Play_with_Int__Double_and_String.pdb
+C:\Users\Mitko\Desktop\mitko telerik\Conditional Statements\09. Play with Int, Double and String\obj\Debug\_09.Play_with_Int__Double_and_String.exe
+C:\Users\Mitko\Desktop\mitko telerik\Conditional Statements\09. Play with Int, Double and String\obj\Debug\_09.Play_with_Int__Double_and_String.pdb
+C:\Users\Mitko\Desktop\mitko telerik\Conditional Statements\09. Play with Int, Double and String\obj\Debug\09. Play with Int, Double and String.csprojResolveAssemblyReference.cache

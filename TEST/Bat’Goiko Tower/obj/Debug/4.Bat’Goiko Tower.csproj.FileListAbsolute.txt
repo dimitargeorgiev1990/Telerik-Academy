@@ -1,0 +1,3 @@
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Bat’Goiko Tower\bin\Debug\Bat’Goiko Tower.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Bat’Goiko Tower\obj\Debug\Bat’Goiko Tower.exe
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Bat’Goiko Tower\obj\Debug\Bat’Goiko Tower.pdb

@@ -1,0 +1,6 @@
+C:\Users\Mitko\Desktop\mitko telerik\Operators and Expressions\15. Bits Exchange\bin\Debug\_15.Bits_Exchange.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\Operators and Expressions\15. Bits Exchange\bin\Debug\_15.Bits_Exchange.exe
+C:\Users\Mitko\Desktop\mitko telerik\Operators and Expressions\15. Bits Exchange\bin\Debug\_15.Bits_Exchange.pdb
+C:\Users\Mitko\Desktop\mitko telerik\Operators and Expressions\15. Bits Exchange\obj\Debug\15. Bits Exchange.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\mitko telerik\Operators and Expressions\15. Bits Exchange\obj\Debug\_15.Bits_Exchange.exe
+C:\Users\Mitko\Desktop\mitko telerik\Operators and Expressions\15. Bits Exchange\obj\Debug\_15.Bits_Exchange.pdb

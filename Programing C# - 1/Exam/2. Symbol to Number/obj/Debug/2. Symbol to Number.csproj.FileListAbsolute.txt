@@ -1,0 +1,6 @@
+C:\Users\Mitko\Desktop\mitko telerik\Exam\2. Symbol to Number\bin\Debug\_2.Symbol_to_Number.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\Exam\2. Symbol to Number\bin\Debug\_2.Symbol_to_Number.exe
+C:\Users\Mitko\Desktop\mitko telerik\Exam\2. Symbol to Number\bin\Debug\_2.Symbol_to_Number.pdb
+C:\Users\Mitko\Desktop\mitko telerik\Exam\2. Symbol to Number\obj\Debug\2. Symbol to Number.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\mitko telerik\Exam\2. Symbol to Number\obj\Debug\_2.Symbol_to_Number.exe
+C:\Users\Mitko\Desktop\mitko telerik\Exam\2. Symbol to Number\obj\Debug\_2.Symbol_to_Number.pdb

@@ -1,0 +1,5 @@
+C:\Users\Mitko\Desktop\mitko telerik\Homework Primitive Data Types and Variables\06. Strings and Objects\bin\Debug\_06.Strings_and_Objects.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\Homework Primitive Data Types and Variables\06. Strings and Objects\bin\Debug\_06.Strings_and_Objects.exe
+C:\Users\Mitko\Desktop\mitko telerik\Homework Primitive Data Types and Variables\06. Strings and Objects\bin\Debug\_06.Strings_and_Objects.pdb
+C:\Users\Mitko\Desktop\mitko telerik\Homework Primitive Data Types and Variables\06. Strings and Objects\obj\Debug\_06.Strings_and_Objects.exe
+C:\Users\Mitko\Desktop\mitko telerik\Homework Primitive Data Types and Variables\06. Strings and Objects\obj\Debug\_06.Strings_and_Objects.pdb

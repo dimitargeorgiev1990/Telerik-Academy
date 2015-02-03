@@ -1,0 +1,6 @@
+C:\Users\Mitko\Desktop\mitko telerik\TEST\4.Eggcelent\bin\Debug\4.Eggcelent.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\TEST\4.Eggcelent\bin\Debug\4.Eggcelent.exe
+C:\Users\Mitko\Desktop\mitko telerik\TEST\4.Eggcelent\bin\Debug\4.Eggcelent.pdb
+C:\Users\Mitko\Desktop\mitko telerik\TEST\4.Eggcelent\obj\Debug\4.Eggcelent.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\mitko telerik\TEST\4.Eggcelent\obj\Debug\4.Eggcelent.exe
+C:\Users\Mitko\Desktop\mitko telerik\TEST\4.Eggcelent\obj\Debug\4.Eggcelent.pdb

@@ -1,0 +1,3 @@
+C:\Users\Mitko\Desktop\mitko telerik\TEST\AngryFemaleGPS\bin\Debug\AngryFemaleGPS.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\TEST\AngryFemaleGPS\obj\Debug\AngryFemaleGPS.exe
+C:\Users\Mitko\Desktop\mitko telerik\TEST\AngryFemaleGPS\obj\Debug\AngryFemaleGPS.pdb

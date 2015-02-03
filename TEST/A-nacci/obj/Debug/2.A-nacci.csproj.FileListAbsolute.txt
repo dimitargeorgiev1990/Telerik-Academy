@@ -1,0 +1,3 @@
+C:\Users\Mitko\Desktop\mitko telerik\TEST\A-nacci\bin\Debug\A-nacci.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\TEST\A-nacci\obj\Debug\A-nacci.exe
+C:\Users\Mitko\Desktop\mitko telerik\TEST\A-nacci\obj\Debug\A-nacci.pdb

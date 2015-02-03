@@ -1,0 +1,5 @@
+C:\Users\Mitko\Desktop\mitko telerik\Homework Primitive Data Types and Variables\02. Float or Double\bin\Debug\_02.Float_or_Double.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\Homework Primitive Data Types and Variables\02. Float or Double\bin\Debug\_02.Float_or_Double.exe
+C:\Users\Mitko\Desktop\mitko telerik\Homework Primitive Data Types and Variables\02. Float or Double\bin\Debug\_02.Float_or_Double.pdb
+C:\Users\Mitko\Desktop\mitko telerik\Homework Primitive Data Types and Variables\02. Float or Double\obj\Debug\_02.Float_or_Double.exe
+C:\Users\Mitko\Desktop\mitko telerik\Homework Primitive Data Types and Variables\02. Float or Double\obj\Debug\_02.Float_or_Double.pdb

@@ -1,0 +1,5 @@
+C:\Users\Mitko\Desktop\mitko telerik\TEST\4.Fire\bin\Debug\4.Fire.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\TEST\4.Fire\bin\Debug\4.Fire.exe
+C:\Users\Mitko\Desktop\mitko telerik\TEST\4.Fire\bin\Debug\4.Fire.pdb
+C:\Users\Mitko\Desktop\mitko telerik\TEST\4.Fire\obj\Debug\4.Fire.exe
+C:\Users\Mitko\Desktop\mitko telerik\TEST\4.Fire\obj\Debug\4.Fire.pdb

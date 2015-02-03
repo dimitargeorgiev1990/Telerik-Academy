@@ -1,0 +1,6 @@
+C:\Users\Mitko\Desktop\mitko telerik\TEST\The Horror\bin\Debug\The Horror.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\TEST\The Horror\obj\Debug\The Horror.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\mitko telerik\TEST\The Horror\bin\Debug\The Horror.exe
+C:\Users\Mitko\Desktop\mitko telerik\TEST\The Horror\bin\Debug\The Horror.pdb
+C:\Users\Mitko\Desktop\mitko telerik\TEST\The Horror\obj\Debug\The Horror.exe
+C:\Users\Mitko\Desktop\mitko telerik\TEST\The Horror\obj\Debug\The Horror.pdb

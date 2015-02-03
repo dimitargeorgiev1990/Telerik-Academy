@@ -1,0 +1,6 @@
+C:\Users\Mitko\Desktop\mitko telerik\Homework Primitive Data Types and Variables\13. Comparing Floats\bin\Debug\_13.Comparing_Floats.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\Homework Primitive Data Types and Variables\13. Comparing Floats\bin\Debug\_13.Comparing_Floats.exe
+C:\Users\Mitko\Desktop\mitko telerik\Homework Primitive Data Types and Variables\13. Comparing Floats\bin\Debug\_13.Comparing_Floats.pdb
+C:\Users\Mitko\Desktop\mitko telerik\Homework Primitive Data Types and Variables\13. Comparing Floats\obj\Debug\_13.Comparing_Floats.exe
+C:\Users\Mitko\Desktop\mitko telerik\Homework Primitive Data Types and Variables\13. Comparing Floats\obj\Debug\_13.Comparing_Floats.pdb
+C:\Users\Mitko\Desktop\mitko telerik\Homework Primitive Data Types and Variables\13. Comparing Floats\obj\Debug\13. Comparing Floats.csprojResolveAssemblyReference.cache

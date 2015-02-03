@@ -1,0 +1,5 @@
+C:\Users\Mitko\Desktop\mitko telerik\Loops\15. Hexadecimal to Decimal Number\bin\Debug\_15.Hexadecimal_to_Decimal_Number.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\Loops\15. Hexadecimal to Decimal Number\bin\Debug\_15.Hexadecimal_to_Decimal_Number.exe
+C:\Users\Mitko\Desktop\mitko telerik\Loops\15. Hexadecimal to Decimal Number\bin\Debug\_15.Hexadecimal_to_Decimal_Number.pdb
+C:\Users\Mitko\Desktop\mitko telerik\Loops\15. Hexadecimal to Decimal Number\obj\Debug\_15.Hexadecimal_to_Decimal_Number.exe
+C:\Users\Mitko\Desktop\mitko telerik\Loops\15. Hexadecimal to Decimal Number\obj\Debug\_15.Hexadecimal_to_Decimal_Number.pdb

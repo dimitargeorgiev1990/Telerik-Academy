@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. A, B and C", "1. A, B and C\1. A, B and C.csproj", "{9FF4D6BC-3A8C-4F1B-9AF2-702BF2CFBEAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.Symbol to Number", "2.Symbol to Number\2.Symbol to Number.csproj", "{D5D510E5-167C-4FD5-987E-66FEF2575C67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FF4D6BC-3A8C-4F1B-9AF2-702BF2CFBEAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FF4D6BC-3A8C-4F1B-9AF2-702BF2CFBEAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FF4D6BC-3A8C-4F1B-9AF2-702BF2CFBEAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FF4D6BC-3A8C-4F1B-9AF2-702BF2CFBEAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5D510E5-167C-4FD5-987E-66FEF2575C67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5D510E5-167C-4FD5-987E-66FEF2575C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5D510E5-167C-4FD5-987E-66FEF2575C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5D510E5-167C-4FD5-987E-66FEF2575C67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

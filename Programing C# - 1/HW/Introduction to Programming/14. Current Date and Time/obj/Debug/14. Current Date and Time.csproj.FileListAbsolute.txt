@@ -1,0 +1,5 @@
+C:\Users\Mitko\Desktop\mitko telerik\HelloCSharp\14. Current Date and Time\bin\Debug\_14.Current_Date_and_Time.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\HelloCSharp\14. Current Date and Time\bin\Debug\_14.Current_Date_and_Time.exe
+C:\Users\Mitko\Desktop\mitko telerik\HelloCSharp\14. Current Date and Time\bin\Debug\_14.Current_Date_and_Time.pdb
+C:\Users\Mitko\Desktop\mitko telerik\HelloCSharp\14. Current Date and Time\obj\Debug\_14.Current_Date_and_Time.exe
+C:\Users\Mitko\Desktop\mitko telerik\HelloCSharp\14. Current Date and Time\obj\Debug\_14.Current_Date_and_Time.pdb

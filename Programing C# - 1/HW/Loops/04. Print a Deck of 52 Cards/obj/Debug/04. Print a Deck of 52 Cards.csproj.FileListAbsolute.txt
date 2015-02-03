@@ -1,0 +1,6 @@
+C:\Users\Mitko\Desktop\mitko telerik\Loops\04. Print a Deck of 52 Cards\bin\Debug\_04.Print_a_Deck_of_52_Cards.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\Loops\04. Print a Deck of 52 Cards\obj\Debug\04. Print a Deck of 52 Cards.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\mitko telerik\Loops\04. Print a Deck of 52 Cards\bin\Debug\_04.Print_a_Deck_of_52_Cards.exe
+C:\Users\Mitko\Desktop\mitko telerik\Loops\04. Print a Deck of 52 Cards\bin\Debug\_04.Print_a_Deck_of_52_Cards.pdb
+C:\Users\Mitko\Desktop\mitko telerik\Loops\04. Print a Deck of 52 Cards\obj\Debug\_04.Print_a_Deck_of_52_Cards.exe
+C:\Users\Mitko\Desktop\mitko telerik\Loops\04. Print a Deck of 52 Cards\obj\Debug\_04.Print_a_Deck_of_52_Cards.pdb

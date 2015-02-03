@@ -1,0 +1,6 @@
+C:\Users\Mitko\Desktop\mitko telerik\Operators and Expressions\11. Bitwise Extract Bit 3\bin\Debug\_11.Bitwise_Extract_Bit_3.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\Operators and Expressions\11. Bitwise Extract Bit 3\obj\Debug\11. Bitwise Extract Bit 3.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\mitko telerik\Operators and Expressions\11. Bitwise Extract Bit 3\bin\Debug\_11.Bitwise_Extract_Bit_3.exe
+C:\Users\Mitko\Desktop\mitko telerik\Operators and Expressions\11. Bitwise Extract Bit 3\bin\Debug\_11.Bitwise_Extract_Bit_3.pdb
+C:\Users\Mitko\Desktop\mitko telerik\Operators and Expressions\11. Bitwise Extract Bit 3\obj\Debug\_11.Bitwise_Extract_Bit_3.exe
+C:\Users\Mitko\Desktop\mitko telerik\Operators and Expressions\11. Bitwise Extract Bit 3\obj\Debug\_11.Bitwise_Extract_Bit_3.pdb

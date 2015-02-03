@@ -1,0 +1,5 @@
+C:\Users\Mitko\Desktop\mitko telerik\Operators and Expressions\09. Trapezoids\bin\Debug\_09.Trapezoids.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\Operators and Expressions\09. Trapezoids\bin\Debug\_09.Trapezoids.exe
+C:\Users\Mitko\Desktop\mitko telerik\Operators and Expressions\09. Trapezoids\bin\Debug\_09.Trapezoids.pdb
+C:\Users\Mitko\Desktop\mitko telerik\Operators and Expressions\09. Trapezoids\obj\Debug\_09.Trapezoids.exe
+C:\Users\Mitko\Desktop\mitko telerik\Operators and Expressions\09. Trapezoids\obj\Debug\_09.Trapezoids.pdb

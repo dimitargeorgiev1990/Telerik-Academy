@@ -1,0 +1,12 @@
+C:\Users\Mitko\Desktop\mitko telerik\HelloCSharp\PrintMyName\obj\Debug\05.PrintMyName.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\mitko telerik\HelloCSharp\PrintMyName\bin\Debug\PrintMyName.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\HelloCSharp\PrintMyName\bin\Debug\PrintMyName.exe
+C:\Users\Mitko\Desktop\mitko telerik\HelloCSharp\PrintMyName\bin\Debug\PrintMyName.pdb
+C:\Users\Mitko\Desktop\mitko telerik\HelloCSharp\PrintMyName\obj\Debug\PrintMyName.exe
+C:\Users\Mitko\Desktop\mitko telerik\HelloCSharp\PrintMyName\obj\Debug\PrintMyName.pdb
+C:\Users\Mitko\Desktop\mitko telerik\Introduction to Programming\05.Print My Name\bin\Debug\PrintMyName.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\Introduction to Programming\05.Print My Name\obj\Debug\PrintMyName.exe
+C:\Users\Mitko\Desktop\mitko telerik\Introduction to Programming\05.Print My Name\obj\Debug\PrintMyName.pdb
+C:\Users\Mitko\Desktop\mitko telerik\Introduction to Programming\05.Print My Name\bin\Debug\PrintMyName.exe
+C:\Users\Mitko\Desktop\mitko telerik\Introduction to Programming\05.Print My Name\bin\Debug\PrintMyName.pdb
+C:\Users\Mitko\Desktop\mitko telerik\Introduction to Programming\05.Print My Name\obj\Debug\05.PrintMyName.csprojResolveAssemblyReference.cache

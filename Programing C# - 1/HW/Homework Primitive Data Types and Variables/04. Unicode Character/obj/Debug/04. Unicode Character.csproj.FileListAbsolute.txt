@@ -1,0 +1,6 @@
+C:\Users\Mitko\Desktop\mitko telerik\Homework Primitive Data Types and Variables\04. Unicode Character\bin\Debug\_04.Unicode_Character.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\Homework Primitive Data Types and Variables\04. Unicode Character\obj\Debug\04. Unicode Character.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\mitko telerik\Homework Primitive Data Types and Variables\04. Unicode Character\bin\Debug\_04.Unicode_Character.exe
+C:\Users\Mitko\Desktop\mitko telerik\Homework Primitive Data Types and Variables\04. Unicode Character\bin\Debug\_04.Unicode_Character.pdb
+C:\Users\Mitko\Desktop\mitko telerik\Homework Primitive Data Types and Variables\04. Unicode Character\obj\Debug\_04.Unicode_Character.exe
+C:\Users\Mitko\Desktop\mitko telerik\Homework Primitive Data Types and Variables\04. Unicode Character\obj\Debug\_04.Unicode_Character.pdb

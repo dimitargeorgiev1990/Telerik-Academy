@@ -1,0 +1,12 @@
+C:\Users\Mitko\Desktop\mitko telerik\Loops\6. Calculate N!  K!\bin\Debug\_6.Calculate_N___K_.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\Loops\6. Calculate N!  K!\bin\Debug\_6.Calculate_N___K_.exe
+C:\Users\Mitko\Desktop\mitko telerik\Loops\6. Calculate N!  K!\bin\Debug\_6.Calculate_N___K_.pdb
+C:\Users\Mitko\Desktop\mitko telerik\Loops\6. Calculate N!  K!\obj\Debug\_6.Calculate_N___K_.exe
+C:\Users\Mitko\Desktop\mitko telerik\Loops\6. Calculate N!  K!\obj\Debug\_6.Calculate_N___K_.pdb
+C:\Users\Mitko\Desktop\mitko telerik\Loops\6. Calculate N!  K!\obj\Debug\6. Calculate N!  K!.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\mitko telerik\Loops\06. Calculate N!  K!\bin\Debug\_6.Calculate_N___K_.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\Loops\06. Calculate N!  K!\obj\Debug\_6.Calculate_N___K_.exe
+C:\Users\Mitko\Desktop\mitko telerik\Loops\06. Calculate N!  K!\obj\Debug\_6.Calculate_N___K_.pdb
+C:\Users\Mitko\Desktop\mitko telerik\Loops\06. Calculate N!  K!\bin\Debug\_6.Calculate_N___K_.exe
+C:\Users\Mitko\Desktop\mitko telerik\Loops\06. Calculate N!  K!\bin\Debug\_6.Calculate_N___K_.pdb
+C:\Users\Mitko\Desktop\mitko telerik\Loops\06. Calculate N!  K!\obj\Debug\6. Calculate N!  K!.csprojResolveAssemblyReference.cache

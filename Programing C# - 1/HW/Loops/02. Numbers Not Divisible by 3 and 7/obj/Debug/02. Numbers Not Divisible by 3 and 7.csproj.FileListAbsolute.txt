@@ -1,0 +1,5 @@
+C:\Users\Mitko\Desktop\mitko telerik\Loops\02. Numbers Not Divisible by 3 and 7\bin\Debug\_02.Numbers_Not_Divisible_by_3_and_7.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\Loops\02. Numbers Not Divisible by 3 and 7\bin\Debug\_02.Numbers_Not_Divisible_by_3_and_7.exe
+C:\Users\Mitko\Desktop\mitko telerik\Loops\02. Numbers Not Divisible by 3 and 7\bin\Debug\_02.Numbers_Not_Divisible_by_3_and_7.pdb
+C:\Users\Mitko\Desktop\mitko telerik\Loops\02. Numbers Not Divisible by 3 and 7\obj\Debug\_02.Numbers_Not_Divisible_by_3_and_7.exe
+C:\Users\Mitko\Desktop\mitko telerik\Loops\02. Numbers Not Divisible by 3 and 7\obj\Debug\_02.Numbers_Not_Divisible_by_3_and_7.pdb

@@ -1,0 +1,8 @@
+C:\Users\Mitko\Desktop\mitko telerik\Loops\7. Calculate N!  (K!  (N-K)!)\bin\Debug\_7.Calculate_N____K____N_K___.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\Loops\7. Calculate N!  (K!  (N-K)!)\bin\Debug\_7.Calculate_N____K____N_K___.exe
+C:\Users\Mitko\Desktop\mitko telerik\Loops\7. Calculate N!  (K!  (N-K)!)\bin\Debug\_7.Calculate_N____K____N_K___.pdb
+C:\Users\Mitko\Desktop\mitko telerik\Loops\7. Calculate N!  (K!  (N-K)!)\obj\Debug\_7.Calculate_N____K____N_K___.exe
+C:\Users\Mitko\Desktop\mitko telerik\Loops\7. Calculate N!  (K!  (N-K)!)\obj\Debug\_7.Calculate_N____K____N_K___.pdb
+C:\Users\Mitko\Desktop\mitko telerik\Loops\07. Calculate N!  (K!  (N-K)!)\bin\Debug\_7.Calculate_N____K____N_K___.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\Loops\07. Calculate N!  (K!  (N-K)!)\obj\Debug\_7.Calculate_N____K____N_K___.exe
+C:\Users\Mitko\Desktop\mitko telerik\Loops\07. Calculate N!  (K!  (N-K)!)\obj\Debug\_7.Calculate_N____K____N_K___.pdb

@@ -1,0 +1,3 @@
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Enigmanation\bin\Debug\Enigmanation.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Enigmanation\obj\Debug\Enigmanation.exe
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Enigmanation\obj\Debug\Enigmanation.pdb

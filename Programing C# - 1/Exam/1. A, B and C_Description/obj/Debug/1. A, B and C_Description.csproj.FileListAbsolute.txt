@@ -1,0 +1,6 @@
+C:\Users\Mitko\Desktop\mitko telerik\Exam\1. A, B and C_Description\bin\Debug\_1.A__B_and_C_Description.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\Exam\1. A, B and C_Description\bin\Debug\_1.A__B_and_C_Description.exe
+C:\Users\Mitko\Desktop\mitko telerik\Exam\1. A, B and C_Description\bin\Debug\_1.A__B_and_C_Description.pdb
+C:\Users\Mitko\Desktop\mitko telerik\Exam\1. A, B and C_Description\obj\Debug\1. A, B and C_Description.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\mitko telerik\Exam\1. A, B and C_Description\obj\Debug\_1.A__B_and_C_Description.exe
+C:\Users\Mitko\Desktop\mitko telerik\Exam\1. A, B and C_Description\obj\Debug\_1.A__B_and_C_Description.pdb

@@ -1,0 +1,3 @@
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Telerik Logo\bin\Debug\Telerik Logo.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Telerik Logo\obj\Debug\Telerik Logo.exe
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Telerik Logo\obj\Debug\Telerik Logo.pdb

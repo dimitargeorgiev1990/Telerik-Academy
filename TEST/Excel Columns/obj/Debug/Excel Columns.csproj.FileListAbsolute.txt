@@ -1,0 +1,6 @@
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Excel Columns\bin\Debug\Excel Columns.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Excel Columns\bin\Debug\Excel Columns.exe
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Excel Columns\bin\Debug\Excel Columns.pdb
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Excel Columns\obj\Debug\Excel Columns.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Excel Columns\obj\Debug\Excel Columns.exe
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Excel Columns\obj\Debug\Excel Columns.pdb

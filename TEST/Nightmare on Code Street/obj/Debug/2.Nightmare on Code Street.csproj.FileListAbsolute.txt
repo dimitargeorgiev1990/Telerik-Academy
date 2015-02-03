@@ -1,0 +1,3 @@
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Nightmare on Code Street\bin\Debug\Nightmare on Code Street.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Nightmare on Code Street\obj\Debug\Nightmare on Code Street.exe
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Nightmare on Code Street\obj\Debug\Nightmare on Code Street.pdb

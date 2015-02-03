@@ -1,0 +1,3 @@
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Card Wars\bin\Debug\Card Wars.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Card Wars\obj\Debug\Card Wars.exe
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Card Wars\obj\Debug\Card Wars.pdb

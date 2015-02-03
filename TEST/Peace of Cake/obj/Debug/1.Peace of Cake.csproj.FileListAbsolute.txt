@@ -1,0 +1,3 @@
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Peace of Cake\bin\Debug\Peace of Cake.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Peace of Cake\obj\Debug\Peace of Cake.exe
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Peace of Cake\obj\Debug\Peace of Cake.pdb

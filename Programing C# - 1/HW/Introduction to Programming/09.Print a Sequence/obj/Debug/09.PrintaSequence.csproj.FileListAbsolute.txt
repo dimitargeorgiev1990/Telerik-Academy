@@ -1,0 +1,5 @@
+C:\Users\Mitko\Desktop\mitko telerik\HelloCSharp\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\HelloCSharp\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\Mitko\Desktop\mitko telerik\HelloCSharp\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\Mitko\Desktop\mitko telerik\HelloCSharp\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\Mitko\Desktop\mitko telerik\HelloCSharp\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb

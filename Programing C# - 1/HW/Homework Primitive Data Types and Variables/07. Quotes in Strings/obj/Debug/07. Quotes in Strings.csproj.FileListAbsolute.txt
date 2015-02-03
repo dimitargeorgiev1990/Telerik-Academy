@@ -1,0 +1,6 @@
+C:\Users\Mitko\Desktop\mitko telerik\Homework Primitive Data Types and Variables\07. Quotes in Strings\bin\Debug\_07.Quotes_in_Strings.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\Homework Primitive Data Types and Variables\07. Quotes in Strings\bin\Debug\_07.Quotes_in_Strings.exe
+C:\Users\Mitko\Desktop\mitko telerik\Homework Primitive Data Types and Variables\07. Quotes in Strings\bin\Debug\_07.Quotes_in_Strings.pdb
+C:\Users\Mitko\Desktop\mitko telerik\Homework Primitive Data Types and Variables\07. Quotes in Strings\obj\Debug\_07.Quotes_in_Strings.exe
+C:\Users\Mitko\Desktop\mitko telerik\Homework Primitive Data Types and Variables\07. Quotes in Strings\obj\Debug\_07.Quotes_in_Strings.pdb
+C:\Users\Mitko\Desktop\mitko telerik\Homework Primitive Data Types and Variables\07. Quotes in Strings\obj\Debug\07. Quotes in Strings.csprojResolveAssemblyReference.cache

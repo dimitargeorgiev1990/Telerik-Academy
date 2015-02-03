@@ -1,0 +1,6 @@
+C:\Users\Mitko\Desktop\mitko telerik\Exam\1\bin\Debug\1.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\Exam\1\obj\Debug\1.exe
+C:\Users\Mitko\Desktop\mitko telerik\Exam\1\obj\Debug\1.pdb
+C:\Users\Mitko\Desktop\mitko telerik\Exam\1\bin\Debug\1.exe
+C:\Users\Mitko\Desktop\mitko telerik\Exam\1\bin\Debug\1.pdb
+C:\Users\Mitko\Desktop\mitko telerik\Exam\1\obj\Debug\1.A, B and C.csprojResolveAssemblyReference.cache

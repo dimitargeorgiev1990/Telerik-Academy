@@ -1,0 +1,82 @@
+1.Visual Studio
+2.Eclipse
+3.Netbeans
+4.kate
+5.gedit
+
+
+
+1.Visual Studio has an advantage when it comes to programming. This IDE is mostly used by corporate programmers to produce .NET code. Sometimes people want to try the product without investing thousands of dollars first, so Microsoft has the Express editions for all of their products. This makes it perfect for casual users that want to hack out some code as a hobby or programmers who need a free solution to code in C#. Be warned though, if the application developed by someone using the express versions of Visual Studio takes off and starts making money it would not be surprising to see big brother step in and start asking questions.
+
+Advantages
+Intellisense
+For those who don’t know what Intellisense is, here is a brief overview. Intellisense is Microsoft’s way to make programming in .NET as painless as possible. When you start programming in Visual Studios IDE you will notice a suggestion box will appear when you start typing anything within the IDE, this is to notify the user what methods and functions are available (R.I.P. Clippy). When clicking on one of the methods in the suggestion box the environment will tell you exactly what the method will do and how many and what parameters are needed. The ability to make decisions on what functions and methods to use based on intellisense is a powerful feature that many would find useful, if not life changing.
+
+
+Automatic code formatting
+With a product like Visual Studio you get what you pay for. When you start coding a method and go to enter the “{“ brackets, the code inside those brackets will actually indent to the right. A very handy feature for a code monkey who is just looking to get the program done. As well, there are options to enhance the colors to see variables as a different color than a method header which is very useful when going through hundreds of lines of code to find a bug. Both these things may be minute details but in the end are designed to save the developer time and money.
+Extensibility
+Something that you don’t like about Visual Studio? Code a new tool for it or use one of the many available to the developers using Visual Studio Gallery. This site is a wealth of fixes for things that developers didn’t like with Visual Studio and decided to fix.
+Compiles Code
+Cons
+CPU Hog
+When running Visual Studio it is a must that you have plenty of RAM to spare. This is a beast when it comes to developing apps and for good reason. If you take the plunge and sacrifice RAM to run this IDE you are equipped with one of the most comprehensive GUI’s (once you learn to navigate it) for developing in the .NET framework.
+Overwhelming GUI
+If you have never used Visual Studio before, then you are in for a surprise. When first starting it up, the layout of buttons and panes can be a little/very confusing at first. This will take time to adjust, so the downfall is there is a steep learning curve with the layout.
+Cost
+With the 2008 Professional edition of Visual Studio costing a thousand dollars (without MSDN subscription) and upwards if you are looking for additional features and subscriptions. This can be a real turn off for the hobbyists but that’s where the express versions will become redeeming.
+
+
+
+2.This is the best alternative if you are not a big fan of Microsoft’s Visual Studio. The interface is a lot cleaner and concise than Visual Studio and the languages that are possible to use extend past the .Net Framework. Besides being the number on way to develop Android applications via the Android SDK, it is fully extensible to use languages such as Ruby, C, C++ and many many more.
+
+Advantages
+Language Extensibility
+The languages mentioned above are not limited by Microsoft and anyone is free to develop plug-ins for different languages and to make the development environment easier to use. Also, the ability to use this on Linux is a great sway for many people who don’t like to be bound by Microsoft’s operating systems and like full control of their OS.
+Free
+Besides being fully customizable and extensible, the next best thing about eclipse is it’s free. This is good news for hobbyists and casual programmers wanting to just hack out some code in their free time.
+Compiles Code
+Cons
+Steep Learning Curve
+With so much available to upgrade and add on, the learning curve of eclipse will be quite steep. The best way to get past this is to just try coding something. Making mistakes when coding could never be so beneficial. Once you start learning from your mistakes you will learn the fastest way to accomplish what you are trying to do.
+
+
+
+3.The is the number one alternative to Eclipse. This program is extensible and free, and it compiles code which is a bonus. When installing Netbeans it comes with a Java server called GlassFish that you could deploy on your computer for your testing environment. This server is the second biggest server for Java next to WebSphere (which is a whole different ball game).
+
+Advantages
+Extensible
+Again, extensibility is a must have for the development environments out there to survive. Instead of having multiple programs for multiple different languages combining them into one program gains recognition from developers and the software programs that combine it all but the kitchen sink are utilized more often because of the simplicity and ease of access to the languages developers want.
+Compiles Code
+Free
+Cons
+Bloated
+While using this program you may notice that your computer slows down, throws errors in your program that you didn’t know existed etc. This is a tough software program to master and when coding you have to be careful to dot the I’s and cross your T’s. This may not be the case for you and Netbeans might be all sunshine and rainbows but it is always best to be safe, rather than sorry later on when you have hundreds of projects.
+
+
+
+4.Kate is exactly how the website describes it, a text editor. Not to be looked down upon as it does a lot more than a regular text edit can do and that is what makes this an indispensable product.
+
+Advantages
+Uses Linux
+Code Folding
+This is probably one of the best features for kate. [Mike Szczys] explains that there is a small column to the left of the code. Any line that is an opening bracket that column will have an arrow next to it. If you click the arrow it will fold all of the code between the opening and closing brackets. Very useful for large source packages.
+Cons
+KDE Overhead
+250 Mb of overhead just to use the application. This is not just one package but several packages that are required to be on the system just to start the application. This may not be the best choice if you are using a net-book for development purposes on the go but if you have a Linux box at home this would do just fine.
+Doesn’t Compile Code
+
+
+
+5.gedit is the official editor of the gnome desktop and comes installed once the system is setup. Very useful for the user that is casually editing code and not undertaking major projects. This would be a good companion to Netbeans or Eclipse.
+
+Advantages
+Uses Linux
+Already Installed on gnome systems
+This is a major bonus for Linux users. If the application is already installed on the system would you be more likely to use it? Either way, if you don’t have to hunt down a program from the software manager then it must be
+Code Highlighting
+gedit offers the ability to highlight your code and figure out where the bugs are by giving you a fresh perspective. This can also be used for web development, to help developers see where the start of nodes are and where to submit the end nodes, doing this could cut down drastically on XHTML issues. While it may not do almost everything like Netbeans or eclipse, it is a handy tool to have on the computer.
+Tabbed
+This feature allows multiple source packages open at once to jump back and forth between if need be. This is a highly useful when comparing documents and debugging code.
+Cons
+Doesn’t Compile Code

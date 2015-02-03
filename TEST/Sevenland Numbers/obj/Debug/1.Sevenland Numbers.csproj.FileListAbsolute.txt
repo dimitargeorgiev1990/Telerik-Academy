@@ -1,0 +1,3 @@
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Sevenland Numbers\bin\Debug\Sevenland Numbers.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Sevenland Numbers\obj\Debug\Sevenland Numbers.exe
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Sevenland Numbers\obj\Debug\Sevenland Numbers.pdb

@@ -1,0 +1,5 @@
+C:\Users\Mitko\Desktop\mitko telerik\Conditional Statements\08. Digit as Word\bin\Debug\_08.Digit_as_Word.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\Conditional Statements\08. Digit as Word\bin\Debug\_08.Digit_as_Word.exe
+C:\Users\Mitko\Desktop\mitko telerik\Conditional Statements\08. Digit as Word\bin\Debug\_08.Digit_as_Word.pdb
+C:\Users\Mitko\Desktop\mitko telerik\Conditional Statements\08. Digit as Word\obj\Debug\_08.Digit_as_Word.exe
+C:\Users\Mitko\Desktop\mitko telerik\Conditional Statements\08. Digit as Word\obj\Debug\_08.Digit_as_Word.pdb

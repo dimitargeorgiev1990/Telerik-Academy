@@ -1,0 +1,9 @@
+C:\Users\Mitko\Desktop\mitko telerik\Loops\5. Calculate 1 + 1!X + 2!X^2 + … + N!X^N\bin\Debug\_5.Calculate_1___1_X___2_X_2_______N_X_N.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\Loops\5. Calculate 1 + 1!X + 2!X^2 + … + N!X^N\bin\Debug\_5.Calculate_1___1_X___2_X_2_______N_X_N.exe
+C:\Users\Mitko\Desktop\mitko telerik\Loops\5. Calculate 1 + 1!X + 2!X^2 + … + N!X^N\bin\Debug\_5.Calculate_1___1_X___2_X_2_______N_X_N.pdb
+C:\Users\Mitko\Desktop\mitko telerik\Loops\5. Calculate 1 + 1!X + 2!X^2 + … + N!X^N\obj\Debug\5. Calculate 1 + 1!X + 2!X^2 + … + N!X^N.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\mitko telerik\Loops\5. Calculate 1 + 1!X + 2!X^2 + … + N!X^N\obj\Debug\_5.Calculate_1___1_X___2_X_2_______N_X_N.exe
+C:\Users\Mitko\Desktop\mitko telerik\Loops\5. Calculate 1 + 1!X + 2!X^2 + … + N!X^N\obj\Debug\_5.Calculate_1___1_X___2_X_2_______N_X_N.pdb
+C:\Users\Mitko\Desktop\mitko telerik\Loops\05. Calculate 1 + 1!X + 2!X^2 + … + N!X^N\bin\Debug\_5.Calculate_1___1_X___2_X_2_______N_X_N.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\Loops\05. Calculate 1 + 1!X + 2!X^2 + … + N!X^N\obj\Debug\_5.Calculate_1___1_X___2_X_2_______N_X_N.exe
+C:\Users\Mitko\Desktop\mitko telerik\Loops\05. Calculate 1 + 1!X + 2!X^2 + … + N!X^N\obj\Debug\_5.Calculate_1___1_X___2_X_2_______N_X_N.pdb

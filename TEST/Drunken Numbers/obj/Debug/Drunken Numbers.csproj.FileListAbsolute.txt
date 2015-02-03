@@ -1,0 +1,6 @@
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Drunken Numbers\bin\Debug\Drunken Numbers.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Drunken Numbers\bin\Debug\Drunken Numbers.exe
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Drunken Numbers\bin\Debug\Drunken Numbers.pdb
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Drunken Numbers\obj\Debug\Drunken Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Drunken Numbers\obj\Debug\Drunken Numbers.exe
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Drunken Numbers\obj\Debug\Drunken Numbers.pdb

@@ -1,0 +1,67 @@
+1.Java
+2.JavaScript
+3.C
+4.C++
+5.Python
+
+
+
+1.How similar Java and C#?
+
+Both C# and Java drew from the C/C++ (and Objective C, and others) to define their syntax. And both of them are compiled to an intermediate language.
+
+The similarities end there.
+
+On the syntax level, Java was influenced by Smalltalk, while C# tried to stay closer to C/C++ (eg: compare Java's extends and implements with C#'s : notation) and took a vague inspiration from VB on those concepts that weren't mappable to C/C++ (example: property syntax).
+
+On the features level, C# 1 was definitely close to Java. Among the few differences they had, I'd highlight C#'s support for "unsafe" code (including pointers) and for delegates; and Java's controversial throws. This makes sense, since one of the goals of C# was to become an alternative to Java.
+
+Many language features differ heavily on implementation details. For example, enums are very C'ish on C#, but are full objects in Java; or generics are implemented on the IL-level in C#, but in Java are dealt with via type erasure (neither is really close to C++'s templates besides syntax).
+
+On the API level, they are worlds apart. C# relies on the .Net Framework, which was built on Microsoft's experience with the Visual Studio family of products (and thus is significantly Windows-oriented), while Java's Class Library was built, IIRC, from scratch, and heavily evolved over time.
+
+Finally, it's worth mentioning that each of the languages has its own idioms, and its own community of supporters behind it.
+
+
+2.Client-side: Javascript runs in most browsers without a plugin. C# requires a browser plugin like Silverlight. Even though it's running on a client machine, Javascript can't read and write files there. C# in Silverlight may be able to read and write files depending on the Silverlight version and what the client allows. Both Javascript and C#/Silverlight can talk to remote servers.
+
+Server-side: since you control this machine, you can do whatever you want - read files, write files, talk directly to databases, etc. Keep in mind there's nothing stopping you from running Javascript server-side.
+
+
+3.No language is perfect for all tasks, and Objective-C is no exception, but there are some very specific niceties. Like using LINQ and var (for which I'm not aware of a direct replacement), some of these are strictly language-related, and others are framework-related.
+
+(NOTE: Just as C# is tightly coupled with .NET, Objective-C is tightly coupled with Cocoa. Hence, some of my points may seem unrelated to Objective-C, but Objective-C without Cocoa is akin to C# without .NET / WPF / LINQ, running under Mono, etc. It's just not the way things are usually done.)
+
+I won't pretend to fully elaborate the differences, pros, and cons, but here are some that jump to mind.
+
+One of the best parts of Objective-C is the dynamic nature — rather than calling methods, you send messages, which the runtime routes dynamically. Combined (judiciously) with dynamic typing, this can make a lot of powerful patterns simpler or even trivial to implement.
+
+As a strict superset of C, Objective-C trusts that you know what you're doing. Unlike the managed and/or typesafe approach of languages like C# and Java, Objective-C lets you do what you want and experience the consequences. Obviously this can be dangerous at times, but the fact that the language doesn't actively prevent you from doing most things is quite powerful. (EDIT: I should clarify that C# also has "unsafe" features and functionality, but they default behavior is managed code, which you have to explicitly opt out of. By comparison, Java only allows for typesafe code, and never exposes raw pointers in the way that C and others do.)
+
+Categories (adding/modifying methods on a class without subclassing or having access to source) is an awesome double-edged sword. It can vastly simplify inheritance hierarchies and eliminate code, but if you do something strange, the results can sometimes be baffling.
+
+Cocoa makes creating GUI apps much simpler in many ways, but you do have to wrap your head around the paradigm. MVC design is pervasive in Cocoa, and patterns such as delegates, notifications, and multi-threaded GUI apps are well-suited to Objective-C.
+
+Cocoa bindings and key-value observing can eliminate tons of glue code, and the Cocoa frameworks leverage this extensively. Objective-C's dynamic dispatch works hand-in-hand with this, so the type of the object doesn't matter as long as it's key-value compliant.
+
+You will likely miss generics and namespaces, and they have their benefits, but in the Objective-C mindset and paradigm, they would be niceties rather than necessities. (Generics are all about type safety and avoiding casting, but dynamic typing in Objective-C makes this essentially a non-issue. Namespaces would be nice if done well, but it's simple enough to avoid conflicts that the cost arguably outweighs the benefits, especially for legacy code.)
+
+For concurrency, Blocks (a new language feature in Snow Leopard, and implemented in scores of Cocoa APIs) are extremely useful. A few lines (frequently coupled with Grand Central Dispatch, which is part of libsystem on 10.6) can eliminates significant boilerplate of callback functions, context, etc. (Blocks can also be used in C and C++, and could certainly be added to C#, which would be awesome.) NSOperationQueue is also a very convenient way to add concurrency to your own code, by dispatching either custom NSOperation subclasses or anonymous blocks which GCD automatically executes on one or more different threads for you.
+
+
+4.Limitation: With C#, features like multiple inheritance from classes (C# implements a different approach called Multiple Implementation, where a class can implement more than one interface), declaring objects on the stack, deterministic destruction (allowing RAII) and allowing default arguments as function parameters (in C# versions < 4.0) will not be available.
+Performance (speed and size): Applications built in C# may not perform as well when compared with native C++. C# has an intrusive garbage collector, reference tracking and other overheads with some of the framework services. The .NET framework alone has a big runtime footprint (~30 Mb of memory), and requires that several versions of the framework be installed.
+Flexibility: Due to the dependency on the .NET framework, operating system level functionality (system level APIs) is buffered by a generic set of functions that will reduce some freedoms.
+Runtime Redistribution: Programs need to be distributed with the .NET framework (pre-Windows XP or non-Windows machines), similar to the issue with the Java language, with all the normal upgrade requirements attached.
+Portability: The .NET complete framework is only available on the Windows OS, but there are open-source versions that provide most of the core functionality, that also support the GNU-Linux OS, like MONO and Portable.NET http://getdotgnu.com/pnet. There are ECMA and ISO .NET standards for example for C# and the CLI extension to C++.
+
+
+5.1. In C#, you can use {0}, {1} etc. as placeholders for variables in a format string, in a Console.WriteLine() function call, and the format string is followed by a comma separated list of the variables used. In Python (in Python 3 that is, not in Python 2), you do that by calling the method format of a string object, which has the {0}, {1}, etc. embedded, and the string is therefore followed by a dot, which is followed by the keyword format, parentheses (hence, a tuple) containing all the variables.
+
+5.2. In C#, using the directive using <namespace name> is sufficient to include everything from the corresponding namespace into the current file. In Python, even after you use import, you need to qualify the name of the corresponding entity with the name of the namespace, e.g. random.randint(). If you want to avoid doing that, you may either do from module import *, or from module import entity. You may use something like System.Console.WriteLine() in C# without saying using System, but you cannot do something like that in Python.
+
+5.3. In C# there are no performance differences whichever variant you use. I am not sure what happens under the hood in Python. I will have to get back to you on that one.
+
+5.4. In Python, once you install a module, you can import it easily from anywhere. In C# on the other hand, some assemblies (read, modules for all practical purposes), are located in different directories and the compiler will need to be told explicitly about that.
+
+5.5. Being a compiled language (with a compiled bunch of files called an assembly), C# (or any .NET language, for that matter) gives rise to things like the IL (CIL or MSIL), metadata, manifest, and by extension assembly viewers (disassemblers), decompilers, etc… we don’t have these problems in Python. Python does have py2exe which generates a compiled executable for the Windows platform. However, py2exe apparently only keeps the byte-compiled version of the code and not the raw one, so as it appears right now, it might not be that straightforward to get your raw Python source code back if you only have the compiled version. In a C# assembly, you can get back to the actual code by using decompilers, e.g. Reflector.

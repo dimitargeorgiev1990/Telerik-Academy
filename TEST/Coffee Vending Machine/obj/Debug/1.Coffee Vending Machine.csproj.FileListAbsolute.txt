@@ -1,0 +1,3 @@
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Coffee Vending Machine\bin\Debug\Coffee Vending Machine.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Coffee Vending Machine\obj\Debug\Coffee Vending Machine.exe
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Coffee Vending Machine\obj\Debug\Coffee Vending Machine.pdb

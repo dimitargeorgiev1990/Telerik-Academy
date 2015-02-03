@@ -1,0 +1,5 @@
+C:\Users\Mitko\Desktop\mitko telerik\Console Input  Output\09. Sum of n Numbers\bin\Debug\_09.Sum_of_n_Numbers.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\Console Input  Output\09. Sum of n Numbers\bin\Debug\_09.Sum_of_n_Numbers.exe
+C:\Users\Mitko\Desktop\mitko telerik\Console Input  Output\09. Sum of n Numbers\bin\Debug\_09.Sum_of_n_Numbers.pdb
+C:\Users\Mitko\Desktop\mitko telerik\Console Input  Output\09. Sum of n Numbers\obj\Debug\_09.Sum_of_n_Numbers.exe
+C:\Users\Mitko\Desktop\mitko telerik\Console Input  Output\09. Sum of n Numbers\obj\Debug\_09.Sum_of_n_Numbers.pdb

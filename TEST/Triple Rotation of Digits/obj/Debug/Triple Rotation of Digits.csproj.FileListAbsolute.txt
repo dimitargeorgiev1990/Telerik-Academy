@@ -1,0 +1,6 @@
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Triple Rotation of Digits\bin\Debug\Triple Rotation of Digits.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Triple Rotation of Digits\obj\Debug\Triple Rotation of Digits.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Triple Rotation of Digits\bin\Debug\Triple Rotation of Digits.exe
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Triple Rotation of Digits\bin\Debug\Triple Rotation of Digits.pdb
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Triple Rotation of Digits\obj\Debug\Triple Rotation of Digits.exe
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Triple Rotation of Digits\obj\Debug\Triple Rotation of Digits.pdb

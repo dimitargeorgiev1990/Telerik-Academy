@@ -1,0 +1,6 @@
+C:\Users\Mitko\Desktop\mitko telerik\TEST\chicho pesho\bin\Debug\chicho pesho.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\TEST\chicho pesho\bin\Debug\chicho pesho.exe
+C:\Users\Mitko\Desktop\mitko telerik\TEST\chicho pesho\bin\Debug\chicho pesho.pdb
+C:\Users\Mitko\Desktop\mitko telerik\TEST\chicho pesho\obj\Debug\chicho pesho.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\mitko telerik\TEST\chicho pesho\obj\Debug\chicho pesho.exe
+C:\Users\Mitko\Desktop\mitko telerik\TEST\chicho pesho\obj\Debug\chicho pesho.pdb

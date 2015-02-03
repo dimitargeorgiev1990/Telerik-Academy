@@ -1,0 +1,6 @@
+C:\Users\Mitko\Desktop\mitko telerik\Loops\13. Binary to Decimal Number\bin\Debug\_13.Binary_to_Decimal_Number.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\Loops\13. Binary to Decimal Number\bin\Debug\_13.Binary_to_Decimal_Number.exe
+C:\Users\Mitko\Desktop\mitko telerik\Loops\13. Binary to Decimal Number\bin\Debug\_13.Binary_to_Decimal_Number.pdb
+C:\Users\Mitko\Desktop\mitko telerik\Loops\13. Binary to Decimal Number\obj\Debug\13. Binary to Decimal Number.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\mitko telerik\Loops\13. Binary to Decimal Number\obj\Debug\_13.Binary_to_Decimal_Number.exe
+C:\Users\Mitko\Desktop\mitko telerik\Loops\13. Binary to Decimal Number\obj\Debug\_13.Binary_to_Decimal_Number.pdb

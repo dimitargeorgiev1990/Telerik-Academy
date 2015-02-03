@@ -1,0 +1,6 @@
+C:\Users\Mitko\Desktop\mitko telerik\TEST\2.Tribonacci Triangle\bin\Debug\2.Tribonacci Triangle.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\TEST\2.Tribonacci Triangle\bin\Debug\2.Tribonacci Triangle.exe
+C:\Users\Mitko\Desktop\mitko telerik\TEST\2.Tribonacci Triangle\bin\Debug\2.Tribonacci Triangle.pdb
+C:\Users\Mitko\Desktop\mitko telerik\TEST\2.Tribonacci Triangle\obj\Debug\2.Tribonacci Triangle.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\mitko telerik\TEST\2.Tribonacci Triangle\obj\Debug\2.Tribonacci Triangle.exe
+C:\Users\Mitko\Desktop\mitko telerik\TEST\2.Tribonacci Triangle\obj\Debug\2.Tribonacci Triangle.pdb

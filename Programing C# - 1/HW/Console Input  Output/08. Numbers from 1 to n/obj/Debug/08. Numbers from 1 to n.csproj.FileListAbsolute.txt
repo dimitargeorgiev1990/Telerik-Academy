@@ -1,0 +1,5 @@
+C:\Users\Mitko\Desktop\mitko telerik\Console Input  Output\08. Numbers from 1 to n\bin\Debug\_08.Numbers_from_1_to_n.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\Console Input  Output\08. Numbers from 1 to n\bin\Debug\_08.Numbers_from_1_to_n.exe
+C:\Users\Mitko\Desktop\mitko telerik\Console Input  Output\08. Numbers from 1 to n\bin\Debug\_08.Numbers_from_1_to_n.pdb
+C:\Users\Mitko\Desktop\mitko telerik\Console Input  Output\08. Numbers from 1 to n\obj\Debug\_08.Numbers_from_1_to_n.exe
+C:\Users\Mitko\Desktop\mitko telerik\Console Input  Output\08. Numbers from 1 to n\obj\Debug\_08.Numbers_from_1_to_n.pdb

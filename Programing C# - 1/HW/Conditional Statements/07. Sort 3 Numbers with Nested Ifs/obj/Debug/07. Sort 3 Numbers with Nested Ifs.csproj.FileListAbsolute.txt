@@ -1,0 +1,6 @@
+C:\Users\Mitko\Desktop\mitko telerik\Conditional Statements\07. Sort 3 Numbers with Nested Ifs\bin\Debug\_07.Sort_3_Numbers_with_Nested_Ifs.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\Conditional Statements\07. Sort 3 Numbers with Nested Ifs\bin\Debug\_07.Sort_3_Numbers_with_Nested_Ifs.exe
+C:\Users\Mitko\Desktop\mitko telerik\Conditional Statements\07. Sort 3 Numbers with Nested Ifs\bin\Debug\_07.Sort_3_Numbers_with_Nested_Ifs.pdb
+C:\Users\Mitko\Desktop\mitko telerik\Conditional Statements\07. Sort 3 Numbers with Nested Ifs\obj\Debug\07. Sort 3 Numbers with Nested Ifs.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\mitko telerik\Conditional Statements\07. Sort 3 Numbers with Nested Ifs\obj\Debug\_07.Sort_3_Numbers_with_Nested_Ifs.exe
+C:\Users\Mitko\Desktop\mitko telerik\Conditional Statements\07. Sort 3 Numbers with Nested Ifs\obj\Debug\_07.Sort_3_Numbers_with_Nested_Ifs.pdb

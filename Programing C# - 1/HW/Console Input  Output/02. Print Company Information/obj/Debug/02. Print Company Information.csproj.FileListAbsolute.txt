@@ -1,0 +1,6 @@
+C:\Users\Mitko\Desktop\mitko telerik\Console Input  Output\02. Print Company Information\bin\Debug\_02.Print_Company_Information.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\Console Input  Output\02. Print Company Information\bin\Debug\_02.Print_Company_Information.exe
+C:\Users\Mitko\Desktop\mitko telerik\Console Input  Output\02. Print Company Information\bin\Debug\_02.Print_Company_Information.pdb
+C:\Users\Mitko\Desktop\mitko telerik\Console Input  Output\02. Print Company Information\obj\Debug\02. Print Company Information.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\mitko telerik\Console Input  Output\02. Print Company Information\obj\Debug\_02.Print_Company_Information.exe
+C:\Users\Mitko\Desktop\mitko telerik\Console Input  Output\02. Print Company Information\obj\Debug\_02.Print_Company_Information.pdb

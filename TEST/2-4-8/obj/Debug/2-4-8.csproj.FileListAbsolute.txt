@@ -1,0 +1,6 @@
+C:\Users\Mitko\Desktop\mitko telerik\TEST\2-4-8\bin\Debug\2-4-8.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\TEST\2-4-8\bin\Debug\2-4-8.exe
+C:\Users\Mitko\Desktop\mitko telerik\TEST\2-4-8\bin\Debug\2-4-8.pdb
+C:\Users\Mitko\Desktop\mitko telerik\TEST\2-4-8\obj\Debug\2-4-8.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\mitko telerik\TEST\2-4-8\obj\Debug\2-4-8.exe
+C:\Users\Mitko\Desktop\mitko telerik\TEST\2-4-8\obj\Debug\2-4-8.pdb

@@ -1,0 +1,6 @@
+C:\Users\Mitko\Desktop\mitko telerik\HelloCSharp\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\HelloCSharp\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\Mitko\Desktop\mitko telerik\HelloCSharp\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\Mitko\Desktop\mitko telerik\HelloCSharp\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\Mitko\Desktop\mitko telerik\HelloCSharp\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+C:\Users\Mitko\Desktop\mitko telerik\HelloCSharp\ConsoleApplication5\obj\Debug\10.ReformatCCode.csprojResolveAssemblyReference.cache

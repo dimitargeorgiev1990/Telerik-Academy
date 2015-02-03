@@ -1,0 +1,5 @@
+C:\Users\Mitko\Desktop\mitko telerik\TEST\4.UK Flag\bin\Debug\4.UK Flag.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\TEST\4.UK Flag\bin\Debug\4.UK Flag.exe
+C:\Users\Mitko\Desktop\mitko telerik\TEST\4.UK Flag\bin\Debug\4.UK Flag.pdb
+C:\Users\Mitko\Desktop\mitko telerik\TEST\4.UK Flag\obj\Debug\4.UK Flag.exe
+C:\Users\Mitko\Desktop\mitko telerik\TEST\4.UK Flag\obj\Debug\4.UK Flag.pdb

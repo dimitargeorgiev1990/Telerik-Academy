@@ -1,0 +1,3 @@
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Next Date\bin\Debug\Next Date.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Next Date\obj\Debug\Next Date.exe
+C:\Users\Mitko\Desktop\mitko telerik\TEST\Next Date\obj\Debug\Next Date.pdb

@@ -1,0 +1,6 @@
+C:\Users\Mitko\Desktop\mitko telerik\Loops\01. Numbers from 1 to N\bin\Debug\_01.Numbers_from_1_to_N.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\Loops\01. Numbers from 1 to N\bin\Debug\_01.Numbers_from_1_to_N.exe
+C:\Users\Mitko\Desktop\mitko telerik\Loops\01. Numbers from 1 to N\bin\Debug\_01.Numbers_from_1_to_N.pdb
+C:\Users\Mitko\Desktop\mitko telerik\Loops\01. Numbers from 1 to N\obj\Debug\01. Numbers from 1 to N.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\mitko telerik\Loops\01. Numbers from 1 to N\obj\Debug\_01.Numbers_from_1_to_N.exe
+C:\Users\Mitko\Desktop\mitko telerik\Loops\01. Numbers from 1 to N\obj\Debug\_01.Numbers_from_1_to_N.pdb

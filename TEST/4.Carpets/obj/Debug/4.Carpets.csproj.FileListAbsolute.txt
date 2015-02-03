@@ -1,0 +1,6 @@
+C:\Users\Mitko\Desktop\mitko telerik\TEST\4.Carpets\bin\Debug\4.Carpets.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\TEST\4.Carpets\bin\Debug\4.Carpets.exe
+C:\Users\Mitko\Desktop\mitko telerik\TEST\4.Carpets\bin\Debug\4.Carpets.pdb
+C:\Users\Mitko\Desktop\mitko telerik\TEST\4.Carpets\obj\Debug\4.Carpets.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\mitko telerik\TEST\4.Carpets\obj\Debug\4.Carpets.exe
+C:\Users\Mitko\Desktop\mitko telerik\TEST\4.Carpets\obj\Debug\4.Carpets.pdb

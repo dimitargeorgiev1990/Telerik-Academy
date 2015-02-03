@@ -1,0 +1,6 @@
+C:\Users\Mitko\Desktop\mitko telerik\BGCoderTasks\BGCoderSubmisionsAndHW\Subset_Sums\bin\Debug\Subset_Sums.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\BGCoderTasks\BGCoderSubmisionsAndHW\Subset_Sums\bin\Debug\Subset_Sums.exe
+C:\Users\Mitko\Desktop\mitko telerik\BGCoderTasks\BGCoderSubmisionsAndHW\Subset_Sums\bin\Debug\Subset_Sums.pdb
+C:\Users\Mitko\Desktop\mitko telerik\BGCoderTasks\BGCoderSubmisionsAndHW\Subset_Sums\obj\Debug\Subset_Sums.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\mitko telerik\BGCoderTasks\BGCoderSubmisionsAndHW\Subset_Sums\obj\Debug\Subset_Sums.exe
+C:\Users\Mitko\Desktop\mitko telerik\BGCoderTasks\BGCoderSubmisionsAndHW\Subset_Sums\obj\Debug\Subset_Sums.pdb

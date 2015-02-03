@@ -1,0 +1,6 @@
+C:\Users\Mitko\Desktop\mitko telerik\Operators and Expressions\08. Prime Number Check\bin\Debug\_08.Prime_Number_Check.exe.config
+C:\Users\Mitko\Desktop\mitko telerik\Operators and Expressions\08. Prime Number Check\bin\Debug\_08.Prime_Number_Check.exe
+C:\Users\Mitko\Desktop\mitko telerik\Operators and Expressions\08. Prime Number Check\bin\Debug\_08.Prime_Number_Check.pdb
+C:\Users\Mitko\Desktop\mitko telerik\Operators and Expressions\08. Prime Number Check\obj\Debug\_08.Prime_Number_Check.exe
+C:\Users\Mitko\Desktop\mitko telerik\Operators and Expressions\08. Prime Number Check\obj\Debug\_08.Prime_Number_Check.pdb
+C:\Users\Mitko\Desktop\mitko telerik\Operators and Expressions\08. Prime Number Check\obj\Debug\08. Prime Number Check.csprojResolveAssemblyReference.cache
