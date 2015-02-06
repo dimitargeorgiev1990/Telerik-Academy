@@ -1,3 +1,6 @@
 C:\Users\Mitko\Desktop\mitko telerik\TEST\AngryFemaleGPS\bin\Debug\AngryFemaleGPS.exe.config
 C:\Users\Mitko\Desktop\mitko telerik\TEST\AngryFemaleGPS\obj\Debug\AngryFemaleGPS.exe
 C:\Users\Mitko\Desktop\mitko telerik\TEST\AngryFemaleGPS\obj\Debug\AngryFemaleGPS.pdb
+C:\Users\Mitko\Desktop\Telerik\TEST\AngryFemaleGPS\bin\Debug\AngryFemaleGPS.exe.config
+C:\Users\Mitko\Desktop\Telerik\TEST\AngryFemaleGPS\obj\Debug\AngryFemaleGPS.exe
+C:\Users\Mitko\Desktop\Telerik\TEST\AngryFemaleGPS\obj\Debug\AngryFemaleGPS.pdb

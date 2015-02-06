@@ -1,1 +1,2 @@
 C:\Users\Mitko\Desktop\mitko telerik\Exam\1. A, B and C\bin\Debug\_1.A__B_and_C.exe.config
+C:\Users\Mitko\Desktop\Telerik\Programing C# - 1\Exam\1. A, B and C\bin\Debug\_1.A__B_and_C.exe.config
