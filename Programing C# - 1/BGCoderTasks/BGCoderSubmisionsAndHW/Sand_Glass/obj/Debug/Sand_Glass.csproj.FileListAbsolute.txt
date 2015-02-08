@@ -4,3 +4,9 @@ C:\Users\Mitko\Desktop\mitko telerik\BGCoderTasks\BGCoderSubmisionsAndHW\Sand_Gl
 C:\Users\Mitko\Desktop\mitko telerik\BGCoderTasks\BGCoderSubmisionsAndHW\Sand_Glass\obj\Debug\Sand_Glass.csprojResolveAssemblyReference.cache
 C:\Users\Mitko\Desktop\mitko telerik\BGCoderTasks\BGCoderSubmisionsAndHW\Sand_Glass\obj\Debug\Sand_Glass.exe
 C:\Users\Mitko\Desktop\mitko telerik\BGCoderTasks\BGCoderSubmisionsAndHW\Sand_Glass\obj\Debug\Sand_Glass.pdb
+C:\Users\Mitko\Desktop\Telerik\Programing C# - 1\BGCoderTasks\BGCoderSubmisionsAndHW\Sand_Glass\bin\Debug\Sand_Glass.exe.config
+C:\Users\Mitko\Desktop\Telerik\Programing C# - 1\BGCoderTasks\BGCoderSubmisionsAndHW\Sand_Glass\obj\Debug\Sand_Glass.pdb
+C:\Users\Mitko\Desktop\Telerik\Programing C# - 1\BGCoderTasks\BGCoderSubmisionsAndHW\Sand_Glass\bin\Debug\Sand_Glass.exe
+C:\Users\Mitko\Desktop\Telerik\Programing C# - 1\BGCoderTasks\BGCoderSubmisionsAndHW\Sand_Glass\bin\Debug\Sand_Glass.pdb
+C:\Users\Mitko\Desktop\Telerik\Programing C# - 1\BGCoderTasks\BGCoderSubmisionsAndHW\Sand_Glass\obj\Debug\Sand_Glass.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Desktop\Telerik\Programing C# - 1\BGCoderTasks\BGCoderSubmisionsAndHW\Sand_Glass\obj\Debug\Sand_Glass.exe
