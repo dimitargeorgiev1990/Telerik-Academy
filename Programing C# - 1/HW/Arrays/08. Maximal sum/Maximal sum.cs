@@ -16,7 +16,7 @@ class MaximalSum
         }
         int currSum = arr[0];
         int startIndex = 0;
-        int endIndex = 0;
+        int endIndex = 0;   
         int tempIndex = 0;
         int maxSum = arr[0];
 
